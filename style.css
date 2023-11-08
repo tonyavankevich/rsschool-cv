@@ -259,3 +259,77 @@ img {
     display: flex;
     align-items: center;
 }
+
+/* about-me */
+
+.main-cv-container {
+    display: flex;
+}
+
+.cv-leftside {
+    margin-right: 100px;
+}
+
+.cv-rightside {
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    border-radius: 30px;
+}
+
+.about-me-txt {
+    color:#6E6D8F;
+}
+
+.about-me{
+    margin-bottom: 50px;
+}
+
+/* experience */
+
+.experience-heading-blue {
+    color: #7051EF;
+}
+
+.experience-company {
+    font-weight: 600;
+    color: #7051EF;
+    margin-top: 30px;
+}
+
+.experience-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.experience-txt-decoration {
+    width: 15px;
+    height: 0px;
+    border: 0.5px solid #D5D5E7;
+    transform: rotate(90deg);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.experience-position {
+    font-weight: 800;
+    color: #3A395D;
+}
+
+.experience-period {
+    color: #6E6D8F;
+}
+
+.experience-desc {
+    list-style-type: disc;
+    color: #6E6D8F;
+    list-style-position: inside;
+    padding: 0;
+}
+
+.experience-additional-info {
+    color: #6E6D8F;
+}
+
