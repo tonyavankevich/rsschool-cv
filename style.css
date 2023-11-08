@@ -103,19 +103,19 @@ img {
 .facebook {
     width: 44px;
     height: 44px;
-    background-image: url('../rsschool-cv/img/Facebook.svg');
+    background-image: url('/img/Facebook.svg');
 }
 
 .linkedin {
     width: 44px;
     height: 44px;
-    background-image: url('../rsschool-cv/img/Linkedin.svg');
+    background-image: url('/img/Linkedin.svg');
 }
 
 .gmail {
     width: 44px;
     height: 44px;
-    background-image: url('../rsschool-cv/img/Gmail.svg');
+    background-image: url('/img/Gmail.svg');
 }
 
 .social-media-element:not(:last-child) {
@@ -155,7 +155,7 @@ img {
 .contact-element-icon-mail {
     width: 30px;
     height: 30px;
-    background: url('../rsschool-cv/img/mail.svg') center center no-repeat transparent;
+    background: url('/img/mail.svg') center center no-repeat transparent;
     background-size: contain;
     margin-right: 10px;
     transform: translateY(3px);
@@ -164,7 +164,7 @@ img {
 .contact-element-icon-phone {
     width: 30px;
     height: 30px;
-    background: url('../rsschool-cv/img/phone.svg') center center no-repeat transparent;
+    background: url('/img/phone.svg') center center no-repeat transparent;
     background-size: contain;
     margin-right: 10px;
     transform: translateY(3px);
@@ -173,7 +173,7 @@ img {
 .contact-element-icon-tg {
     width: 30px;
     height: 30px;
-    background: url('../rsschool-cv/img/tg.svg') center center no-repeat transparent;
+    background: url('/img/tg.svg') center center no-repeat transparent;
     background-size: contain;
     margin-right: 10px;
     transform: translateY(3px);
@@ -211,42 +211,42 @@ img {
 .html {
     width: 60px;
     height: 60px;
-    background: url('../rsschool-cv/img/HTML5.png') no-repeat transparent;
+    background: url('/img/HTML5.png') no-repeat transparent;
     background-size: contain;
 }
 
 .css {
     width: 60px;
     height: 60px;
-    background: url('../rsschool-cv/img/CSS3.png') no-repeat transparent;
+    background: url('/img/CSS3.png') no-repeat transparent;
     background-size: contain;
 }
 
 .figma {
     width: 60px;
     height: 60px;
-    background: url('../rsschool-cv/img/Figma.png') no-repeat transparent;
+    background: url('/img/Figma.png') no-repeat transparent;
     background-size: contain;
 }
 
 .js {
     width: 60px;
     height: 60px;
-    background: url('../rsschool-cv/img/js.png') no-repeat transparent;
+    background: url('/img/js.png') no-repeat transparent;
     background-size: contain;
 }
 
 .vs {
     width: 60px;
     height: 60px;
-    background: url('../rsschool-cv/img/vs.png') no-repeat transparent;
+    background: url('/img/vs.png') no-repeat transparent;
     background-size: contain;
 }
 
 .ps {
     width: 60px;
     height: 60px;
-    background: url('../rsschool-cv/img/ps.png') no-repeat transparent;
+    background: url('/img/ps.png') no-repeat transparent;
     background-size: contain;
 }
 
