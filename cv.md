@@ -6,7 +6,7 @@
 
 ---
 
-#### Contact information:
+### Contact information:
 
 **Phone:** + 375 (29) 942-56-70   
 **E-mail:** tonyavankevich@gmail.com  
@@ -15,7 +15,7 @@
 
 ---
 
-#### About Myself
+### About Myself
 
 I approach work-related matters responsibly and am dedicated to solving professional tasks. I take pleasure in acquiring new knowledge and improving skills. I enjoy working in a team and persistently see tasks through to completion.
 I possess proficiency in the English language at the B1 level (Intermediate).
@@ -23,7 +23,7 @@ I am energetic, goal-oriented, and open to acquiring new knowledge and competenc
 
 ---
 
-#### Skills and Proficiency:
+### Skills and Proficiency:
 
 - Basics of HTML, CSS
 - JavaScript Basics
@@ -32,7 +32,7 @@ I am energetic, goal-oriented, and open to acquiring new knowledge and competenc
 
 ---
 
-#### Work Experience
+### Work Experience
 
 **Skillbox**
 
@@ -82,7 +82,7 @@ Primary tools: Python (Pandas, NumPy), SQL, Miro, GitLab, Jupyter Notebook, PyCh
 
 ---
 
-#### Languages:
+### Languages:
 
 - English (B1);
 - Russian (native);
