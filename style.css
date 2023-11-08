@@ -1,1 +1,261 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/plus-jakarta-display.min.css");
 
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #f2efff;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.main-heading {
+    color: #3A395D;
+}
+
+/* header */
+
+.container{
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    display: flex;
+    margin-top: 35px;
+}
+
+.header-container {
+    display: flex;
+}
+
+.representation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 40px;
+}
+
+.name {
+    position: relative;
+}
+
+.name-blue {
+    color: #7051EF;
+}
+
+.decoration-element {
+    width: 65px;
+    height: 5px;
+    background: #7051EF;
+    position: absolute;
+}
+
+.tg-link {
+    color: #6E6D8F;
+}
+
+.social-media {
+    align-self: center;
+    margin-left: 30px;
+}
+
+.social-media-list {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.social-media-element-img {
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-position: center;
+}
+
+.facebook {
+    width: 44px;
+    height: 44px;
+    background-image: url('../rsschool-cv/img/Facebook.svg');
+}
+
+.linkedin {
+    width: 44px;
+    height: 44px;
+    background-image: url('../rsschool-cv/img/Linkedin.svg');
+}
+
+.gmail {
+    width: 44px;
+    height: 44px;
+    background-image: url('../rsschool-cv/img/Gmail.svg');
+}
+
+.social-media-element:not(:last-child) {
+    margin-right: 30px;
+}
+
+/* contact */
+.main-cv {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.contact{
+    margin-bottom: 50px;
+}
+
+.contact-element {
+    display: flex;
+    align-items: center;
+}
+
+.contact-element:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.contact-element-icon,
+.contact-element-link {
+    vertical-align: middle; 
+}
+
+.contact-element-icon {
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact-element-icon-mail {
+    width: 30px;
+    height: 30px;
+    background: url('../rsschool-cv/img/mail.svg') center center no-repeat transparent;
+    background-size: contain;
+    margin-right: 10px;
+    transform: translateY(3px);
+}
+
+.contact-element-icon-phone {
+    width: 30px;
+    height: 30px;
+    background: url('../rsschool-cv/img/phone.svg') center center no-repeat transparent;
+    background-size: contain;
+    margin-right: 10px;
+    transform: translateY(3px);
+}
+
+.contact-element-icon-tg {
+    width: 30px;
+    height: 30px;
+    background: url('../rsschool-cv/img/tg.svg') center center no-repeat transparent;
+    background-size: contain;
+    margin-right: 10px;
+    transform: translateY(3px);
+}
+
+.contact-element a{
+    color: #6E6D8F;
+}
+
+/* education */
+
+.education-degree {
+    color:#3A395D;
+    margin-top: 20px;
+}
+
+.education{
+    margin-bottom: 50px;
+}
+
+.education-institution{
+    color: #6E6D8F;
+    font-size: 15px;
+    line-height: 1;
+}
+
+.education-period {
+    font-size: 16px;  
+    font-weight: 600;
+    color: #7051EF;
+}
+
+/* skills */
+
+.html {
+    width: 60px;
+    height: 60px;
+    background: url('../rsschool-cv/img/HTML5.png') no-repeat transparent;
+    background-size: contain;
+}
+
+.css {
+    width: 60px;
+    height: 60px;
+    background: url('../rsschool-cv/img/CSS3.png') no-repeat transparent;
+    background-size: contain;
+}
+
+.figma {
+    width: 60px;
+    height: 60px;
+    background: url('../rsschool-cv/img/Figma.png') no-repeat transparent;
+    background-size: contain;
+}
+
+.js {
+    width: 60px;
+    height: 60px;
+    background: url('../rsschool-cv/img/js.png') no-repeat transparent;
+    background-size: contain;
+}
+
+.vs {
+    width: 60px;
+    height: 60px;
+    background: url('../rsschool-cv/img/vs.png') no-repeat transparent;
+    background-size: contain;
+}
+
+.ps {
+    width: 60px;
+    height: 60px;
+    background: url('../rsschool-cv/img/ps.png') no-repeat transparent;
+    background-size: contain;
+}
+
+.skills-img {
+    margin-right: 30px;
+    margin-bottom: 20px
+}
+
+.skills-element {
+    display: flex;
+    align-items: center;
+}
